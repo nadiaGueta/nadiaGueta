@@ -8,23 +8,48 @@ Master Lead Developer – ESIEE-IT
 ---
 
 ## Projects
+# Klona Avatars
 
-### Klona Avatar
-Plateforme de création d’avatars 3D multi-plateforme.
+Klona Avatars est une plateforme de création d’avatars 3D multi-plateforme destinée aux éditeurs de jeux, studios XR, applications web, métavers et expériences interactives.
 
-Technologies  
-React  
-Three.js  
-React Three Fiber  
-GLB  
+## Objectif
 
-Fonctionnalités  
-- Personnalisation d’avatar  
-- Gestion des assets 3D  
-- Pipeline d’export GLB  
-- Interface partenaire  
+La plateforme permet de créer, personnaliser et distribuer des avatars 3D facilement intégrables dans différents environnements numériques.
 
-Projet développé en équipe.
+## Fonctionnalités
+
+- Création d’avatars 3D personnalisables (homme / femme / autres)
+- Personnalisation de l’apparence : peau, cheveux, vêtements, accessoires
+- Interface web interactive de configuration d’avatar
+- Gestion des utilisateurs et interface partenaire
+- Distribution standardisée des avatars (FBX optimisé, riggé et prêt à être animé)
+- Intégration facilitée via SDK pour Unity et Unreal
+- Monétisation B2B via partenaires utilisant des clés API
+
+## Technologies
+
+Frontend  
+- React  
+- Vite  
+- TypeScript  
+
+3D  
+- Three.js  
+- React Three Fiber  
+- GLB / GLTF  
+
+## Utilisation
+
+Les avatars générés peuvent être utilisés dans :
+
+- Jeux vidéo
+- Applications web
+- Expériences XR / métavers
+- Applications interactives
+
+## Projet
+
+Projet développé en équipe dans le cadre d’une plateforme de création d’avatars 3D.
 
 ---
 
