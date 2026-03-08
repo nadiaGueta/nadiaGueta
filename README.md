@@ -6,32 +6,15 @@ Master Lead Developer – ESIEE-IT
 Passionnée par le développement d’applications web et mobiles, je travaille sur des projets combinant **React, 3D Web et applications mobiles**.
 
 ---
-
 ## Technologies
 
-**Frontend**  
-React  
-Angular  
-HTML / CSS  
-TypeScript  
-React Native  
+**Frontend:** React · Angular · HTML · CSS · TypeScript · React Native  
 
-**Backend**  
-Node.js  
-Express.js  
-Java  
-Spring Boot  
+**Backend:** Node.js · Express.js · Java · Spring Boot  
 
-**3D Web**  
-Three.js  
-React Three Fiber  
-GLB / GLTF  
+**3D Web:** Three.js · React Three Fiber · GLTF / GLB  
 
-**Tools**  
-Git  
-Postman  
-Figma  
-VS Code  
+**Tools:** Git · Postman · Figma · VS Code
 
 ---
 
