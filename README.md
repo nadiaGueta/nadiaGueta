@@ -43,7 +43,7 @@ Frontend/backend
 Projet développé en équipe dans le cadre d’une plateforme de création d’avatars 3D.
 
 ---
-### FreshPrep
+# FreshPrep
 Application mobile de gestion intelligente du frigo et de planification des repas.
 
 **Technologies**  
