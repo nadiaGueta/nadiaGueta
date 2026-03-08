@@ -24,13 +24,7 @@ Passionnée par le développement d’applications web et mobiles, je travaille 
 🚧 Work in Progress
 
 Plateforme de création d’avatars 3D multi-plateforme destinée aux jeux, applications web et expériences XR.
-
-**Technologies**
-
-React  
-Three.js  
-React Three Fiber  
-TypeScript  
+ 
 
 **Fonctionnalités**
 
@@ -50,10 +44,6 @@ Projet développé en équipe.
 
 Application mobile de gestion intelligente du frigo et de planification des repas.
 
-**Technologies**
-
-Frontend : React Native, TypeScript  
-Backend : Node.js, Express.js  
 
 **Fonctionnalités**
 
