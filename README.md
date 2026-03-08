@@ -28,10 +28,11 @@ La plateforme permet de créer, personnaliser et distribuer des avatars 3D facil
 
 ## Technologies
 
-Frontend  
-- React  
-- Vite  
+Frontend/backend 
+- React Native  
 - TypeScript  
+- Node.js  
+- Express.js  
 
 3D  
 - Three.js  
@@ -47,23 +48,35 @@ Les avatars générés peuvent être utilisés dans :
 - Expériences XR / métavers
 - Applications interactives
 
-## Projet
 
 Projet développé en équipe dans le cadre d’une plateforme de création d’avatars 3D.
 
 ---
-
 ### FreshPrep
-Application mobile de gestion intelligente du frigo.
+Application mobile de gestion intelligente du frigo et de planification des repas.
 
-Technologies  
+**Technologies**  
 React Native  
 TypeScript  
+Node.js  
+Express.js  
 
-Fonctionnalités  
-- Scan produits  
-- Suggestions de recettes  
-- Gestion inventaire  
-- Liste de courses automatique  
+**Fonctionnalités**  
+- Gestion de l’inventaire alimentaire  
+- Ajout manuel et scan de produits (code-barres / OCR)  
+- Suivi des dates de péremption avec notifications  
+- Suggestions de recettes et de repas personnalisés  
+- Génération automatique de listes de courses  
+- Planification hebdomadaire des repas  
+- Suivi des valeurs nutritionnelles
 
 Projet développé en équipe.
+
+
+## Contact
+
+💼 LinkedIn : https://linkedin.com/in/nadiaguetari  
+📧 Email : guetari.nadya@gmail.com  
+📧 Email : segma55@outlook.com  
+📍 Paris / Île-de-France
+
