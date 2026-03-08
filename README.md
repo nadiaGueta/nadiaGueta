@@ -9,17 +9,13 @@ Passionnée par le développement d’applications **web, mobile et 3D**, je tra
 
 ## 🛠 Tech Stack
 
-Frontend  
-React · Angular · TypeScript · HTML · CSS · React Native  
+**Frontend:** React · Angular · HTML · CSS · TypeScript · React Native  
 
-Backend  
-Node.js · Express.js · Java · Spring Boot  
+**Backend:** Node.js · Express.js · Java · Spring Boot  
 
-3D Web  
-Three.js · React Three Fiber · GLTF / GLB  
+**3D Web:** Three.js · React Three Fiber · GLTF / GLB  
 
-Tools  
-Git · Postman · Figma · VS Code  
+**Tools:** Git · Postman · Figma · VS Code 
 
 ---
 
