@@ -39,15 +39,6 @@ Frontend/backend
 - React Three Fiber  
 - GLB / GLTF  
 
-## Utilisation
-
-Les avatars générés peuvent être utilisés dans :
-
-- Jeux vidéo
-- Applications web
-- Expériences XR / métavers
-- Applications interactives
-
 
 Projet développé en équipe dans le cadre d’une plateforme de création d’avatars 3D.
 
